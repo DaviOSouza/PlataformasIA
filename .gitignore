@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignorar arquivos de configuração com chaves sensíveis
+ProjetoAI_OpenAI/appsettings.json
+ProjetoAI_Gemini/appsettings.json
+ProjetoAI_DeepSeek/appsettings.json
+ProjetoAI_Grok/appsettings.json
