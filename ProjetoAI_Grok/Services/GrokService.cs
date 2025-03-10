@@ -21,7 +21,7 @@ public class GrokService
         {
             messages = new[]
             {
-                new { role = "system", content = "You are Grok, a chatbot inspired by the Hitchhikers Guide to the Galaxy." },
+                new { role = "system", content = "You are Grok, a chatbot inspired by the Hitchhikers Guide to the Galaxy!" },
                 new { role = "user", content = prompt }
             },
             model = "grok-2-latest",
