@@ -1,0 +1,6 @@
+@ProjetoAI_Gemini_HostAddress = http://localhost:5290
+
+GET {{ProjetoAI_Gemini_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
